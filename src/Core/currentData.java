@@ -12,5 +12,6 @@ public class currentData {
         int months = cal.get(Calendar.MONTH);
         int years = cal.get(Calendar.YEAR);
         int Days = cal.get(Calendar.DAY_OF_MONTH);
+        System.out.println("ton test");
     }
 }
